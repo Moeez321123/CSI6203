@@ -1,0 +1,61 @@
+{
+	"Black":{
+        "prefix": "Black",
+        "body": [
+            "\\033[30m"
+        ],
+        "description": "Blacky"
+    },
+    "Red":{
+        "prefix": "Red",
+        "body": [
+            "\\033[31m"
+        ],
+        "description": "Red..Star"
+    },
+    "Green":{
+        "prefix": "Green",
+        "body": [
+            "\\033[32m"
+        ],
+        "description": "Greenish"
+    },
+    "Brown":{
+        "prefix": "Brown",
+        "body": [
+            "\\033[33m"
+        ],
+        "description": "Hot Brownie"
+    },
+    "Blue":{
+        "prefix": "Blue",
+        "body": [
+            "\\033[34m"
+        ],
+        "description": "Blue waves"
+    },
+    "Purple":{
+        "prefix": "Purple",
+        "body": [
+            "\\033[35m"
+        ],
+        "description": "Purple Tie"
+    },
+    "Cylan":{
+        "prefix": "Cylan",
+        "body": [
+            "\\033[36m"
+        ],
+        "description": "Cylan discovery"
+    },
+    "gray":{
+        "prefix": "Gray",
+        "body": [
+            "\\033[37m"
+        ],
+        "description": "Gray Rock"
+    }
+}
+
+	
+    
