@@ -1,0 +1,10 @@
+    # location_download_file=$ (  -f3)
+    \033[31mERROR:\033[0m  $VAR1
+ \033[31mERROR:\033[0m $1
+this is the start of the script
+Thank you!
+Thank you!
+    TOO LOw!
+    TOO high!
+    Correct!
+The area of the triangle with base $a and height $b is : $area_of_triangle
